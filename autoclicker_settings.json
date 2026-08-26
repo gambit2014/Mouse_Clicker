@@ -1,0 +1,11 @@
+{
+  "interval": "0.1",
+  "click_type": "left",
+  "always_on_top": false,
+  "stop_on_leave": true,
+  "dark_mode": false,
+  "click_limit_enabled": false,
+  "click_limit": "100",
+  "time_limit_enabled": false,
+  "time_limit": "60"
+}
