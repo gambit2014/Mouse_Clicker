@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Mouse_Clicker",
+			"path": "."
+		},
+		{
+			"name": "sql-snippets",
+			"path": "../sql-snippets"
+		}
+	],
+	"settings": {}
+}
